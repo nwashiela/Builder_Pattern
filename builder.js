@@ -33,3 +33,5 @@ var trip = new trainTrip({
 });
 trip.changeClass("secondClass").changeFrom('bellvile').changeTo('Woster');
 console.log({ trip: trip });
+
+//builder()
